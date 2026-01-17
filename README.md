@@ -10,24 +10,24 @@ The project is divided into three logical modules according to user roles.
 
 ### For Guests
 
-* **Search & Filter:** Search by geolocation (OpenStreetMap), price, accommodation type, and amenities.
-* **Booking:** Real-time availability check, cost calculation including service fees.
-* **Payment:** Stripe integration for online payments or cash-on-arrival option.
-* **Communication:** Built-in WebSocket chat for communication with the host.
-* **History & Rating:** Trip history view, review system.
+* Search by geolocation (OpenStreetMap), price, accommodation type, and amenities.
+* Real-time availability check, cost calculation including service fees.
+* Stripe integration for online payments or cash-on-arrival option.
+* Built-in WebSocket chat for communication with the host.
+* Trip history view, review system.
 
 ### For Hosts
 
-* **Listing Management:** CRUD operations for listings (photos, descriptions, rules).
-* **Availability Calendar:** Manage available dates, block periods, synchronize statuses.
-* **Finances:** Set prices, view booking history.
-* **Promotion:** Tools to increase listing visibility.
+* CRUD operations for listings (photos, descriptions, rules).
+* Manage available dates, block periods, synchronize statuses.
+* Set prices, view booking history.
+* Tools to increase listing visibility.
 
 ### Admin Panel (Admin/Moderator)
 
-* **Moderation:** Validation of new listings, complaint handling.
-* **Analytics:** Dashboard with metrics (user count, transactions, conversion).
-* **Content Management:** Edit housing categories and search attributes.
+* Validation of new listings, complaint handling.
+* Dashboard with metrics (user count, transactions, conversion).
+* Edit housing categories and search attributes.
 
 ## Technology Stack
 
